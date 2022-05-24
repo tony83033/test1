@@ -1,0 +1,456 @@
+"1    11.04.2022 02:30:07.646 GMT+0530
+Name: Local time, dtype: object","86    11.04.2022 02:34:02.390 GMT+0530
+Name: Local time, dtype: object",1.0921233720930232,1.09201
+"1    11.04.2022 02:30:07.646 GMT+0530
+Name: Local time, dtype: object","86    11.04.2022 02:34:02.390 GMT+0530
+Name: Local time, dtype: object",1.0921233720930232,1.09201
+"87    11.04.2022 02:34:38.966 GMT+0530
+Name: Local time, dtype: object","186    11.04.2022 02:37:35.516 GMT+0530
+Name: Local time, dtype: object",1.0913162,1.091315
+"187    11.04.2022 02:38:35.129 GMT+0530
+Name: Local time, dtype: object","261    11.04.2022 02:41:35.811 GMT+0530
+Name: Local time, dtype: object",1.0909556,1.09096
+"262    11.04.2022 02:42:40.962 GMT+0530
+Name: Local time, dtype: object","315    11.04.2022 02:46:05.610 GMT+0530
+Name: Local time, dtype: object",1.091130740740741,1.091175
+"316    11.04.2022 02:46:15.103 GMT+0530
+Name: Local time, dtype: object","400    11.04.2022 02:50:02.382 GMT+0530
+Name: Local time, dtype: object",1.0909964705882353,1.09098
+"401    11.04.2022 02:50:06.275 GMT+0530
+Name: Local time, dtype: object","428    11.04.2022 02:53:42.524 GMT+0530
+Name: Local time, dtype: object",1.0911807142857144,1.0912350000000002
+"429    11.04.2022 02:54:39.017 GMT+0530
+Name: Local time, dtype: object","494    11.04.2022 02:58:02.819 GMT+0530
+Name: Local time, dtype: object",1.0908719696969698,1.09083
+"495    11.04.2022 02:58:12.857 GMT+0530
+Name: Local time, dtype: object","592    11.04.2022 03:02:04.786 GMT+0530
+Name: Local time, dtype: object",1.0907635714285715,1.09077
+"593    11.04.2022 03:02:08.349 GMT+0530
+Name: Local time, dtype: object","648    11.04.2022 03:06:05.663 GMT+0530
+Name: Local time, dtype: object",1.090759642857143,1.09076
+"649    11.04.2022 03:06:58.944 GMT+0530
+Name: Local time, dtype: object","662    11.04.2022 03:09:57.217 GMT+0530
+Name: Local time, dtype: object",1.0907492857142855,1.0907550000000001
+"663    11.04.2022 03:10:31.689 GMT+0530
+Name: Local time, dtype: object","691    11.04.2022 03:13:38.933 GMT+0530
+Name: Local time, dtype: object",1.090771724137931,1.09078
+"692    11.04.2022 03:14:38.928 GMT+0530
+Name: Local time, dtype: object","766    11.04.2022 03:18:04.884 GMT+0530
+Name: Local time, dtype: object",1.0907310666666665,1.09078
+"767    11.04.2022 03:18:08.302 GMT+0530
+Name: Local time, dtype: object","800    11.04.2022 03:21:59.663 GMT+0530
+Name: Local time, dtype: object",1.090710882352941,1.09071
+"801    11.04.2022 03:22:59.785 GMT+0530
+Name: Local time, dtype: object","856    11.04.2022 03:25:34.659 GMT+0530
+Name: Local time, dtype: object",1.0910526785714285,1.09114
+"857    11.04.2022 03:26:06.609 GMT+0530
+Name: Local time, dtype: object","950    11.04.2022 03:30:05.738 GMT+0530
+Name: Local time, dtype: object",1.0910055319148935,1.09104
+"951    11.04.2022 03:30:06.825 GMT+0530
+Name: Local time, dtype: object","1508    11.04.2022 03:34:04.561 GMT+0530
+Name: Local time, dtype: object",1.0909123835125447,1.09084
+"1509    11.04.2022 03:34:06.483 GMT+0530
+Name: Local time, dtype: object","1841    11.04.2022 03:38:05.734 GMT+0530
+Name: Local time, dtype: object",1.0910003903903904,1.09087
+"1842    11.04.2022 03:38:05.878 GMT+0530
+Name: Local time, dtype: object","2179    11.04.2022 03:42:01.754 GMT+0530
+Name: Local time, dtype: object",1.0905534319526626,1.09053
+"2180    11.04.2022 03:42:08.135 GMT+0530
+Name: Local time, dtype: object","2457    11.04.2022 03:46:05.764 GMT+0530
+Name: Local time, dtype: object",1.0902437050359712,1.09024
+"2458    11.04.2022 03:46:06.224 GMT+0530
+Name: Local time, dtype: object","2586    11.04.2022 03:49:30.104 GMT+0530
+Name: Local time, dtype: object",1.0901274418604652,1.09013
+"2587    11.04.2022 03:50:11.517 GMT+0530
+Name: Local time, dtype: object","2690    11.04.2022 03:54:00.083 GMT+0530
+Name: Local time, dtype: object",1.0902498076923075,1.09025
+"2691    11.04.2022 03:54:07.771 GMT+0530
+Name: Local time, dtype: object","2845    11.04.2022 03:58:00.819 GMT+0530
+Name: Local time, dtype: object",1.0902925806451615,1.0903
+"2846    11.04.2022 03:58:08.995 GMT+0530
+Name: Local time, dtype: object","3069    11.04.2022 04:02:01.763 GMT+0530
+Name: Local time, dtype: object",1.0900460267857142,1.0900050000000001
+"3070    11.04.2022 04:02:15.279 GMT+0530
+Name: Local time, dtype: object","3217    11.04.2022 04:06:04.993 GMT+0530
+Name: Local time, dtype: object",1.089631554054054,1.089655
+"3218    11.04.2022 04:06:06.695 GMT+0530
+Name: Local time, dtype: object","3352    11.04.2022 04:10:05.749 GMT+0530
+Name: Local time, dtype: object",1.0895765185185184,1.08958
+"3353    11.04.2022 04:10:05.851 GMT+0530
+Name: Local time, dtype: object","3535    11.04.2022 04:14:05.563 GMT+0530
+Name: Local time, dtype: object",1.0893244808743168,1.08931
+"3536    11.04.2022 04:14:06.911 GMT+0530
+Name: Local time, dtype: object","3702    11.04.2022 04:18:05.483 GMT+0530
+Name: Local time, dtype: object",1.0892137125748502,1.08925
+"3703    11.04.2022 04:18:07.401 GMT+0530
+Name: Local time, dtype: object","3968    11.04.2022 04:22:05.761 GMT+0530
+Name: Local time, dtype: object",1.0889795112781955,1.08898
+"3969    11.04.2022 04:22:05.914 GMT+0530
+Name: Local time, dtype: object","4108    11.04.2022 04:25:53.980 GMT+0530
+Name: Local time, dtype: object",1.0887885,1.0888
+"4109    11.04.2022 04:26:11.951 GMT+0530
+Name: Local time, dtype: object","4221    11.04.2022 04:30:03.082 GMT+0530
+Name: Local time, dtype: object",1.0890961061946904,1.08913
+"4222    11.04.2022 04:30:06.043 GMT+0530
+Name: Local time, dtype: object","4397    11.04.2022 04:34:01.947 GMT+0530
+Name: Local time, dtype: object",1.0891577272727273,1.08912
+"4398    11.04.2022 04:34:10.978 GMT+0530
+Name: Local time, dtype: object","4603    11.04.2022 04:37:57.136 GMT+0530
+Name: Local time, dtype: object",1.088845631067961,1.088845
+"4604    11.04.2022 04:38:12.346 GMT+0530
+Name: Local time, dtype: object","4741    11.04.2022 04:42:05.719 GMT+0530
+Name: Local time, dtype: object",1.0890791304347824,1.08912
+"4742    11.04.2022 04:42:06.025 GMT+0530
+Name: Local time, dtype: object","4895    11.04.2022 04:46:02.052 GMT+0530
+Name: Local time, dtype: object",1.088824220779221,1.0888550000000001
+"4896    11.04.2022 04:46:06.525 GMT+0530
+Name: Local time, dtype: object","5023    11.04.2022 04:50:01.013 GMT+0530
+Name: Local time, dtype: object",1.088751875,1.088765
+"5024    11.04.2022 04:50:06.576 GMT+0530
+Name: Local time, dtype: object","5156    11.04.2022 04:53:59.172 GMT+0530
+Name: Local time, dtype: object",1.0889136842105265,1.0889
+"5157    11.04.2022 04:54:06.027 GMT+0530
+Name: Local time, dtype: object","5253    11.04.2022 04:58:03.335 GMT+0530
+Name: Local time, dtype: object",1.0887470103092782,1.08873
+"5254    11.04.2022 04:58:12.146 GMT+0530
+Name: Local time, dtype: object","5417    11.04.2022 05:02:01.399 GMT+0530
+Name: Local time, dtype: object",1.0887074390243903,1.08866
+"5418    11.04.2022 05:02:22.730 GMT+0530
+Name: Local time, dtype: object","5472    11.04.2022 05:05:45.841 GMT+0530
+Name: Local time, dtype: object",1.0889730909090911,1.08898
+"5473    11.04.2022 05:06:09.056 GMT+0530
+Name: Local time, dtype: object","5586    11.04.2022 05:10:01.956 GMT+0530
+Name: Local time, dtype: object",1.0889513157894735,1.08896
+"5587    11.04.2022 05:10:06.229 GMT+0530
+Name: Local time, dtype: object","5814    11.04.2022 05:14:05.235 GMT+0530
+Name: Local time, dtype: object",1.0887885087719296,1.08879
+"5815    11.04.2022 05:14:10.391 GMT+0530
+Name: Local time, dtype: object","5934    11.04.2022 05:18:03.911 GMT+0530
+Name: Local time, dtype: object",1.0887704999999999,1.088755
+"5935    11.04.2022 05:18:06.232 GMT+0530
+Name: Local time, dtype: object","6056    11.04.2022 05:22:00.394 GMT+0530
+Name: Local time, dtype: object",1.0888315573770495,1.08882
+"6057    11.04.2022 05:22:24.592 GMT+0530
+Name: Local time, dtype: object","6215    11.04.2022 05:26:01.466 GMT+0530
+Name: Local time, dtype: object",1.0886753459119496,1.08867
+"6216    11.04.2022 05:26:09.248 GMT+0530
+Name: Local time, dtype: object","6379    11.04.2022 05:30:05.794 GMT+0530
+Name: Local time, dtype: object",1.088563963414634,1.08852
+"6380    11.04.2022 05:30:06.227 GMT+0530
+Name: Local time, dtype: object","6601    11.04.2022 05:34:03.762 GMT+0530
+Name: Local time, dtype: object",1.0885806756756755,1.08857
+"6602    11.04.2022 05:34:06.856 GMT+0530
+Name: Local time, dtype: object","6683    11.04.2022 05:38:02.092 GMT+0530
+Name: Local time, dtype: object",1.088530487804878,1.08852
+"6684    11.04.2022 05:38:08.986 GMT+0530
+Name: Local time, dtype: object","6815    11.04.2022 05:41:51.694 GMT+0530
+Name: Local time, dtype: object",1.0884623484848486,1.08844
+"6816    11.04.2022 05:42:14.932 GMT+0530
+Name: Local time, dtype: object","7020    11.04.2022 05:46:01.035 GMT+0530
+Name: Local time, dtype: object",1.0887996585365853,1.08872
+"7021    11.04.2022 05:46:06.404 GMT+0530
+Name: Local time, dtype: object","7255    11.04.2022 05:50:04.828 GMT+0530
+Name: Local time, dtype: object",1.0889406808510638,1.08895
+"7256    11.04.2022 05:50:11.255 GMT+0530
+Name: Local time, dtype: object","7437    11.04.2022 05:54:00.122 GMT+0530
+Name: Local time, dtype: object",1.0884619780219777,1.08845
+"7438    11.04.2022 05:54:13.775 GMT+0530
+Name: Local time, dtype: object","7540    11.04.2022 05:58:04.707 GMT+0530
+Name: Local time, dtype: object",1.0885129126213593,1.08852
+"7541    11.04.2022 05:58:07.697 GMT+0530
+Name: Local time, dtype: object","7662    11.04.2022 06:02:04.527 GMT+0530
+Name: Local time, dtype: object",1.0884720491803281,1.08847
+"7663    11.04.2022 06:02:06.001 GMT+0530
+Name: Local time, dtype: object","7838    11.04.2022 06:06:05.096 GMT+0530
+Name: Local time, dtype: object",1.0882594318181817,1.08827
+"7839    11.04.2022 06:06:06.676 GMT+0530
+Name: Local time, dtype: object","7925    11.04.2022 06:10:03.012 GMT+0530
+Name: Local time, dtype: object",1.0884398850574715,1.08843
+"7926    11.04.2022 06:10:06.526 GMT+0530
+Name: Local time, dtype: object","8008    11.04.2022 06:14:03.995 GMT+0530
+Name: Local time, dtype: object",1.088550481927711,1.08855
+"8009    11.04.2022 06:14:08.200 GMT+0530
+Name: Local time, dtype: object","8228    11.04.2022 06:18:04.978 GMT+0530
+Name: Local time, dtype: object",1.0889321363636364,1.08891
+"8229    11.04.2022 06:18:09.525 GMT+0530
+Name: Local time, dtype: object","8404    11.04.2022 06:22:05.137 GMT+0530
+Name: Local time, dtype: object",1.089024318181818,1.08902
+"8405    11.04.2022 06:22:07.335 GMT+0530
+Name: Local time, dtype: object","8623    11.04.2022 06:25:59.204 GMT+0530
+Name: Local time, dtype: object",1.08897,1.08889
+"8624    11.04.2022 06:26:09.243 GMT+0530
+Name: Local time, dtype: object","8729    11.04.2022 06:30:02.990 GMT+0530
+Name: Local time, dtype: object",1.088935849056604,1.088945
+"8730    11.04.2022 06:30:06.812 GMT+0530
+Name: Local time, dtype: object","8888    11.04.2022 06:34:05.250 GMT+0530
+Name: Local time, dtype: object",1.088926037735849,1.0889
+"8889    11.04.2022 06:34:06.036 GMT+0530
+Name: Local time, dtype: object","9113    11.04.2022 06:38:04.200 GMT+0530
+Name: Local time, dtype: object",1.089239911111111,1.08927
+"9114    11.04.2022 06:38:08.163 GMT+0530
+Name: Local time, dtype: object","9289    11.04.2022 06:42:05.761 GMT+0530
+Name: Local time, dtype: object",1.0892956818181816,1.08932
+"9290    11.04.2022 06:42:05.862 GMT+0530
+Name: Local time, dtype: object","9428    11.04.2022 06:46:03.448 GMT+0530
+Name: Local time, dtype: object",1.0891918705035972,1.0892
+"9429    11.04.2022 06:46:10.048 GMT+0530
+Name: Local time, dtype: object","9521    11.04.2022 06:50:01.652 GMT+0530
+Name: Local time, dtype: object",1.0891208602150537,1.08912
+"9522    11.04.2022 06:50:15.528 GMT+0530
+Name: Local time, dtype: object","9616    11.04.2022 06:53:59.793 GMT+0530
+Name: Local time, dtype: object",1.089257894736842,1.08924
+"9617    11.04.2022 06:54:06.290 GMT+0530
+Name: Local time, dtype: object","9781    11.04.2022 06:58:05.373 GMT+0530
+Name: Local time, dtype: object",1.089386787878788,1.08939
+"9782    11.04.2022 06:58:06.573 GMT+0530
+Name: Local time, dtype: object","9983    11.04.2022 07:02:01.962 GMT+0530
+Name: Local time, dtype: object",1.0893409405940595,1.08936
+"9984    11.04.2022 07:02:06.543 GMT+0530
+Name: Local time, dtype: object","10224    11.04.2022 07:06:01.509 GMT+0530
+Name: Local time, dtype: object",1.089065062240664,1.08905
+"10225    11.04.2022 07:06:10.345 GMT+0530
+Name: Local time, dtype: object","10497    11.04.2022 07:10:04.713 GMT+0530
+Name: Local time, dtype: object",1.088787142857143,1.08875
+"10498    11.04.2022 07:10:05.956 GMT+0530
+Name: Local time, dtype: object","10667    11.04.2022 07:13:56.149 GMT+0530
+Name: Local time, dtype: object",1.0888106470588237,1.0888
+"10668    11.04.2022 07:14:14.582 GMT+0530
+Name: Local time, dtype: object","10849    11.04.2022 07:18:00.677 GMT+0530
+Name: Local time, dtype: object",1.088673186813187,1.08866
+"1    11.04.2022 02:30:07.646 GMT+0530
+Name: Local time, dtype: object","119    11.04.2022 02:35:05.516 GMT+0530
+Name: Local time, dtype: object",1.0919103361344538,1.09201
+"120    11.04.2022 02:35:06.315 GMT+0530
+Name: Local time, dtype: object","220    11.04.2022 02:40:05.587 GMT+0530
+Name: Local time, dtype: object",1.091180891089109,1.09117
+"221    11.04.2022 02:40:06.591 GMT+0530
+Name: Local time, dtype: object","301    11.04.2022 02:45:01.356 GMT+0530
+Name: Local time, dtype: object",1.0910358024691358,1.09098
+"302    11.04.2022 02:45:35.992 GMT+0530
+Name: Local time, dtype: object","400    11.04.2022 02:50:02.382 GMT+0530
+Name: Local time, dtype: object",1.091021818181818,1.091
+"401    11.04.2022 02:50:06.275 GMT+0530
+Name: Local time, dtype: object","435    11.04.2022 02:55:03.575 GMT+0530
+Name: Local time, dtype: object",1.0911514285714288,1.09109
+"436    11.04.2022 02:55:25.942 GMT+0530
+Name: Local time, dtype: object","530    11.04.2022 03:00:05.078 GMT+0530
+Name: Local time, dtype: object",1.090820210526316,1.09083
+"531    11.04.2022 03:00:07.500 GMT+0530
+Name: Local time, dtype: object","632    11.04.2022 03:04:58.129 GMT+0530
+Name: Local time, dtype: object",1.0907623529411763,1.09077
+"633    11.04.2022 03:05:05.960 GMT+0530
+Name: Local time, dtype: object","662    11.04.2022 03:09:57.217 GMT+0530
+Name: Local time, dtype: object",1.0907496666666667,1.09075
+"663    11.04.2022 03:10:31.689 GMT+0530
+Name: Local time, dtype: object","696    11.04.2022 03:15:00.674 GMT+0530
+Name: Local time, dtype: object",1.0907726470588235,1.09078
+"697    11.04.2022 03:15:36.695 GMT+0530
+Name: Local time, dtype: object","791    11.04.2022 03:19:56.854 GMT+0530
+Name: Local time, dtype: object",1.090720842105263,1.09073
+"792    11.04.2022 03:20:08.534 GMT+0530
+Name: Local time, dtype: object","842    11.04.2022 03:24:51.499 GMT+0530
+Name: Local time, dtype: object",1.0909637254901963,1.09089
+"843    11.04.2022 03:25:16.685 GMT+0530
+Name: Local time, dtype: object","950    11.04.2022 03:30:05.738 GMT+0530
+Name: Local time, dtype: object",1.0910273148148149,1.09105
+"951    11.04.2022 03:30:06.825 GMT+0530
+Name: Local time, dtype: object","1590    11.04.2022 03:35:04.676 GMT+0530
+Name: Local time, dtype: object",1.0909612656249998,1.09086
+"1591    11.04.2022 03:35:07.746 GMT+0530
+Name: Local time, dtype: object","1988    11.04.2022 03:40:05.245 GMT+0530
+Name: Local time, dtype: object",1.0908373115577887,1.09077
+"1989    11.04.2022 03:40:06.129 GMT+0530
+Name: Local time, dtype: object","2386    11.04.2022 03:45:04.893 GMT+0530
+Name: Local time, dtype: object",1.0903503266331658,1.09035
+"2387    11.04.2022 03:45:06.098 GMT+0530
+Name: Local time, dtype: object","2586    11.04.2022 03:49:30.104 GMT+0530
+Name: Local time, dtype: object",1.090128,1.090125
+"2587    11.04.2022 03:50:11.517 GMT+0530
+Name: Local time, dtype: object","2720    11.04.2022 03:55:04.596 GMT+0530
+Name: Local time, dtype: object",1.0902366417910447,1.09024
+"2721    11.04.2022 03:55:06.790 GMT+0530
+Name: Local time, dtype: object","2926    11.04.2022 04:00:05.603 GMT+0530
+Name: Local time, dtype: object",1.0902789320388349,1.090275
+"2927    11.04.2022 04:00:05.912 GMT+0530
+Name: Local time, dtype: object","3144    11.04.2022 04:05:03.603 GMT+0530
+Name: Local time, dtype: object",1.0898685321100918,1.08989
+"3145    11.04.2022 04:05:06.525 GMT+0530
+Name: Local time, dtype: object","3352    11.04.2022 04:10:05.749 GMT+0530
+Name: Local time, dtype: object",1.0895645673076924,1.08957
+"3353    11.04.2022 04:10:05.851 GMT+0530
+Name: Local time, dtype: object","3584    11.04.2022 04:15:03.938 GMT+0530
+Name: Local time, dtype: object",1.0893174568965518,1.08931
+"3585    11.04.2022 04:15:24.261 GMT+0530
+Name: Local time, dtype: object","3871    11.04.2022 04:20:04.633 GMT+0530
+Name: Local time, dtype: object",1.089085470383275,1.08907
+"3872    11.04.2022 04:20:06.034 GMT+0530
+Name: Local time, dtype: object","4086    11.04.2022 04:25:02.340 GMT+0530
+Name: Local time, dtype: object",1.0888418604651162,1.08882
+"4087    11.04.2022 04:25:15.187 GMT+0530
+Name: Local time, dtype: object","4221    11.04.2022 04:30:03.082 GMT+0530
+Name: Local time, dtype: object",1.0890495555555555,1.0891
+"4222    11.04.2022 04:30:06.043 GMT+0530
+Name: Local time, dtype: object","4453    11.04.2022 04:35:05.611 GMT+0530
+Name: Local time, dtype: object",1.0890954310344827,1.08907
+"4454    11.04.2022 04:35:08.604 GMT+0530
+Name: Local time, dtype: object","4686    11.04.2022 04:40:03.882 GMT+0530
+Name: Local time, dtype: object",1.088932017167382,1.08888
+"4687    11.04.2022 04:40:34.073 GMT+0530
+Name: Local time, dtype: object","4850    11.04.2022 04:45:05.431 GMT+0530
+Name: Local time, dtype: object",1.0889151219512196,1.088895
+"4851    11.04.2022 04:45:06.602 GMT+0530
+Name: Local time, dtype: object","5023    11.04.2022 04:50:01.013 GMT+0530
+Name: Local time, dtype: object",1.0887437572254337,1.08872
+"5024    11.04.2022 04:50:06.576 GMT+0530
+Name: Local time, dtype: object","5176    11.04.2022 04:55:02.411 GMT+0530
+Name: Local time, dtype: object",1.0889044444444445,1.08889
+"5177    11.04.2022 04:55:06.525 GMT+0530
+Name: Local time, dtype: object","5332    11.04.2022 05:00:04.620 GMT+0530
+Name: Local time, dtype: object",1.0886756410256409,1.08869
+"5333    11.04.2022 05:00:13.125 GMT+0530
+Name: Local time, dtype: object","5452    11.04.2022 05:04:45.465 GMT+0530
+Name: Local time, dtype: object",1.0888329166666666,1.08889
+"5453    11.04.2022 05:05:17.597 GMT+0530
+Name: Local time, dtype: object","5586    11.04.2022 05:10:01.956 GMT+0530
+Name: Local time, dtype: object",1.088957014925373,1.08896
+"5587    11.04.2022 05:10:06.229 GMT+0530
+Name: Local time, dtype: object","5855    11.04.2022 05:15:05.746 GMT+0530
+Name: Local time, dtype: object",1.0887731970260224,1.08878
+"5856    11.04.2022 05:15:05.899 GMT+0530
+Name: Local time, dtype: object","5997    11.04.2022 05:20:02.856 GMT+0530
+Name: Local time, dtype: object",1.08884676056338,1.08887
+"5998    11.04.2022 05:20:07.314 GMT+0530
+Name: Local time, dtype: object","6181    11.04.2022 05:25:03.088 GMT+0530
+Name: Local time, dtype: object",1.0887103260869566,1.08871
+"6182    11.04.2022 05:25:15.068 GMT+0530
+Name: Local time, dtype: object","6379    11.04.2022 05:30:05.794 GMT+0530
+Name: Local time, dtype: object",1.0885789393939393,1.08854
+"6380    11.04.2022 05:30:06.227 GMT+0530
+Name: Local time, dtype: object","6630    11.04.2022 05:35:03.100 GMT+0530
+Name: Local time, dtype: object",1.0885735856573706,1.08857
+"6631    11.04.2022 05:35:06.541 GMT+0530
+Name: Local time, dtype: object","6775    11.04.2022 05:40:02.864 GMT+0530
+Name: Local time, dtype: object",1.0884972413793106,1.0885
+"6776    11.04.2022 05:40:10.000 GMT+0530
+Name: Local time, dtype: object","6951    11.04.2022 05:45:04.576 GMT+0530
+Name: Local time, dtype: object",1.0886405113636364,1.08867
+"6952    11.04.2022 05:45:13.292 GMT+0530
+Name: Local time, dtype: object","7255    11.04.2022 05:50:04.828 GMT+0530
+Name: Local time, dtype: object",1.0889527302631579,1.08896
+"7256    11.04.2022 05:50:11.255 GMT+0530
+Name: Local time, dtype: object","7460    11.04.2022 05:55:03.453 GMT+0530
+Name: Local time, dtype: object",1.088460487804878,1.08845
+"7461    11.04.2022 05:55:06.558 GMT+0530
+Name: Local time, dtype: object","7589    11.04.2022 06:00:05.658 GMT+0530
+Name: Local time, dtype: object",1.0885241860465118,1.08855
+"7590    11.04.2022 06:00:06.594 GMT+0530
+Name: Local time, dtype: object","7796    11.04.2022 06:05:01.842 GMT+0530
+Name: Local time, dtype: object",1.0883101449275363,1.08833
+"7797    11.04.2022 06:05:08.809 GMT+0530
+Name: Local time, dtype: object","7925    11.04.2022 06:10:03.012 GMT+0530
+Name: Local time, dtype: object",1.0884047286821705,1.08839
+"7926    11.04.2022 06:10:06.526 GMT+0530
+Name: Local time, dtype: object","8039    11.04.2022 06:15:00.986 GMT+0530
+Name: Local time, dtype: object",1.088593245614035,1.08857
+"8040    11.04.2022 06:15:05.814 GMT+0530
+Name: Local time, dtype: object","8330    11.04.2022 06:20:05.723 GMT+0530
+Name: Local time, dtype: object",1.0890058762886596,1.08903
+"8331    11.04.2022 06:20:08.700 GMT+0530
+Name: Local time, dtype: object","8585    11.04.2022 06:25:04.726 GMT+0530
+Name: Local time, dtype: object",1.0889374901960787,1.08892
+"8586    11.04.2022 06:25:06.447 GMT+0530
+Name: Local time, dtype: object","8729    11.04.2022 06:30:02.990 GMT+0530
+Name: Local time, dtype: object",1.0889949305555555,1.08898
+"8730    11.04.2022 06:30:06.812 GMT+0530
+Name: Local time, dtype: object","8936    11.04.2022 06:35:05.801 GMT+0530
+Name: Local time, dtype: object",1.0889740096618357,1.08893
+"8937    11.04.2022 06:35:05.903 GMT+0530
+Name: Local time, dtype: object","9196    11.04.2022 06:40:05.583 GMT+0530
+Name: Local time, dtype: object",1.0892903076923075,1.08931
+"9197    11.04.2022 06:40:07.283 GMT+0530
+Name: Local time, dtype: object","9404    11.04.2022 06:45:03.362 GMT+0530
+Name: Local time, dtype: object",1.0892304807692308,1.08924
+"9405    11.04.2022 06:45:07.249 GMT+0530
+Name: Local time, dtype: object","9521    11.04.2022 06:50:01.652 GMT+0530
+Name: Local time, dtype: object",1.0891207692307692,1.08912
+"9522    11.04.2022 06:50:15.528 GMT+0530
+Name: Local time, dtype: object","9681    11.04.2022 06:54:56.585 GMT+0530
+Name: Local time, dtype: object",1.089293,1.08929
+"1    11.04.2022 02:30:07.646 GMT+0530
+Name: Local time, dtype: object","220    11.04.2022 02:40:05.587 GMT+0530
+Name: Local time, dtype: object",1.0915754545454546,1.091505
+"221    11.04.2022 02:40:06.591 GMT+0530
+Name: Local time, dtype: object","400    11.04.2022 02:50:02.382 GMT+0530
+Name: Local time, dtype: object",1.091028111111111,1.091
+"401    11.04.2022 02:50:06.275 GMT+0530
+Name: Local time, dtype: object","530    11.04.2022 03:00:05.078 GMT+0530
+Name: Local time, dtype: object",1.0909093846153846,1.09083
+"531    11.04.2022 03:00:07.500 GMT+0530
+Name: Local time, dtype: object","662    11.04.2022 03:09:57.217 GMT+0530
+Name: Local time, dtype: object",1.0907594696969698,1.09076
+"663    11.04.2022 03:10:31.689 GMT+0530
+Name: Local time, dtype: object","791    11.04.2022 03:19:56.854 GMT+0530
+Name: Local time, dtype: object",1.0907344961240308,1.09076
+"792    11.04.2022 03:20:08.534 GMT+0530
+Name: Local time, dtype: object","950    11.04.2022 03:30:05.738 GMT+0530
+Name: Local time, dtype: object",1.0910069182389937,1.09104
+"951    11.04.2022 03:30:06.825 GMT+0530
+Name: Local time, dtype: object","1988    11.04.2022 03:40:05.245 GMT+0530
+Name: Local time, dtype: object",1.0909137379576106,1.09083
+"1989    11.04.2022 03:40:06.129 GMT+0530
+Name: Local time, dtype: object","2586    11.04.2022 03:49:30.104 GMT+0530
+Name: Local time, dtype: object",1.0902759698996656,1.09027
+"2587    11.04.2022 03:50:11.517 GMT+0530
+Name: Local time, dtype: object","2926    11.04.2022 04:00:05.603 GMT+0530
+Name: Local time, dtype: object",1.0902622647058824,1.09026
+"2927    11.04.2022 04:00:05.912 GMT+0530
+Name: Local time, dtype: object","3352    11.04.2022 04:10:05.749 GMT+0530
+Name: Local time, dtype: object",1.089720117370892,1.08967
+"3353    11.04.2022 04:10:05.851 GMT+0530
+Name: Local time, dtype: object","3871    11.04.2022 04:20:04.633 GMT+0530
+Name: Local time, dtype: object",1.0891891714836224,1.08925
+"3872    11.04.2022 04:20:06.034 GMT+0530
+Name: Local time, dtype: object","4221    11.04.2022 04:30:03.082 GMT+0530
+Name: Local time, dtype: object",1.0889219714285716,1.08888
+"4222    11.04.2022 04:30:06.043 GMT+0530
+Name: Local time, dtype: object","4686    11.04.2022 04:40:03.882 GMT+0530
+Name: Local time, dtype: object",1.0890135483870969,1.08897
+"4687    11.04.2022 04:40:34.073 GMT+0530
+Name: Local time, dtype: object","5023    11.04.2022 04:50:01.013 GMT+0530
+Name: Local time, dtype: object",1.0888271513353116,1.08884
+"5024    11.04.2022 04:50:06.576 GMT+0530
+Name: Local time, dtype: object","5332    11.04.2022 05:00:04.620 GMT+0530
+Name: Local time, dtype: object",1.0887889320388349,1.0888
+"5333    11.04.2022 05:00:13.125 GMT+0530
+Name: Local time, dtype: object","5586    11.04.2022 05:10:01.956 GMT+0530
+Name: Local time, dtype: object",1.0888983858267716,1.08895
+"5587    11.04.2022 05:10:06.229 GMT+0530
+Name: Local time, dtype: object","5997    11.04.2022 05:20:02.856 GMT+0530
+Name: Local time, dtype: object",1.088798613138686,1.0888
+"5998    11.04.2022 05:20:07.314 GMT+0530
+Name: Local time, dtype: object","6379    11.04.2022 05:30:05.794 GMT+0530
+Name: Local time, dtype: object",1.08864222513089,1.08867
+"6380    11.04.2022 05:30:06.227 GMT+0530
+Name: Local time, dtype: object","6775    11.04.2022 05:40:02.864 GMT+0530
+Name: Local time, dtype: object",1.0885456313131314,1.08854
+"6776    11.04.2022 05:40:10.000 GMT+0530
+Name: Local time, dtype: object","7255    11.04.2022 05:50:04.828 GMT+0530
+Name: Local time, dtype: object",1.0888382499999998,1.08888
+"7256    11.04.2022 05:50:11.255 GMT+0530
+Name: Local time, dtype: object","7589    11.04.2022 06:00:05.658 GMT+0530
+Name: Local time, dtype: object",1.0884850898203593,1.08847
+"7590    11.04.2022 06:00:06.594 GMT+0530
+Name: Local time, dtype: object","7925    11.04.2022 06:10:03.012 GMT+0530
+Name: Local time, dtype: object",1.088346458333333,1.08836
+"7926    11.04.2022 06:10:06.526 GMT+0530
+Name: Local time, dtype: object","8330    11.04.2022 06:20:05.723 GMT+0530
+Name: Local time, dtype: object",1.0888897283950618,1.08894
+"8331    11.04.2022 06:20:08.700 GMT+0530
+Name: Local time, dtype: object","8729    11.04.2022 06:30:02.990 GMT+0530
+Name: Local time, dtype: object",1.0889582205513784,1.08894
+"8730    11.04.2022 06:30:06.812 GMT+0530
+Name: Local time, dtype: object","9196    11.04.2022 06:40:05.583 GMT+0530
+Name: Local time, dtype: object",1.0891501070663812,1.08919
+"9197    11.04.2022 06:40:07.283 GMT+0530
+Name: Local time, dtype: object","9521    11.04.2022 06:50:01.652 GMT+0530
+Name: Local time, dtype: object",1.0891909846153844,1.0892
